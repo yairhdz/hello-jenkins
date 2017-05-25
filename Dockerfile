@@ -1,4 +1,4 @@
-# Other comment 6
+# Other comment 7
 #New Comment
 FROM node:latest
 MAINTAINER mike.coleman@docker.com
